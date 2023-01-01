@@ -1,1 +1,1 @@
-twrp_samsung_M12
+twrp_samsung_Galaxy_M12
